@@ -1,0 +1,38 @@
+h1 {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 38px;
+    background-color: #000000;
+    color: #804545;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 0 0 15px 0;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn {
+    margin: 0;
+    border: 0;
+    background-color: #dd1313;
+    padding: 15px 10px 15px 10px;
+    color: #ffffff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: opacity 1s;
+}
+
+.btn:hover{
+    opacity: 0.8;
+}
+
+.btn:active{
+    background-color: blue;
+}
+
+#btn-test{
+    padding-left: 30.5px;
+    padding-right: 30.5px;
+}
